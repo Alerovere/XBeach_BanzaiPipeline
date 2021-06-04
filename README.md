@@ -8,3 +8,5 @@ To use the model, follow these steps.
 4. To change tides, edit the "tide" file.
 5. Run XBeach
 6. Optionally, open the jupyter notebook file and export each timestep of the model in a separate folder. These images can be turned into a video.
+
+The bathymetry has been interpolated into the model grid from the SOEST HAWAII datasets: http://www.soest.hawaii.edu/hmrg/multibeam/bathymetry.php
